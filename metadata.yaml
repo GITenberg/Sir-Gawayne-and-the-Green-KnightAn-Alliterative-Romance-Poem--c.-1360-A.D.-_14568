@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '34489'
     url: http://www.gutenberg.org/2009/agents/34489
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14568#Sir-Gawayne-and-the-Green-KnightAn-Alliterative-Romance-Poem--c.-1360-A.D.-
 gutenberg_bookshelf:
 - Early English Text Society
 - Poetry
